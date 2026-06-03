@@ -1,0 +1,9 @@
+# Environments and secrets
+.env
+.env.local
+.env.*.local
+
+# IDE and system files
+.idea/
+.vscode/
+.DS_Store
